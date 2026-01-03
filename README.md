@@ -1,3 +1,5 @@
+https://github.com/Coderxrohan/control-pulse/blob/main/public/Control%20Pulse.png
+
 # Linux Process & Resource Monitor
 
 A Linux-focused monitoring tool designed to go beyond surface-level metrics and
