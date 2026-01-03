@@ -1,4 +1,4 @@
-https://github.com/Coderxrohan/control-pulse/blob/main/public/Control%20Pulse.png
+[!Code_Pulse](https://github.com/Coderxrohan/control-pulse/blob/main/public/Control%20Pulse.png)
 
 # Linux Process & Resource Monitor
 
